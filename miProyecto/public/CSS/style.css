@@ -1,0 +1,21 @@
+.curso-card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px 0;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.curso-card h2 {
+    font-size: 1.5em;
+    margin-bottom: 8px;
+}
+
+.curso-card a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.curso-card a:hover {
+    text-decoration: underline;
+}
